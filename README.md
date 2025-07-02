@@ -1,5 +1,11 @@
-## Hi there 👋
 
+ 👋 Hi, I'm Siri Chandana Madanapu!
+
+- 🎓 Computer Science Student
+- 💻 I love coding in Python and C++
+- 🌱 Currently learning Data Science
+
+![My GitHub stats](https://github.com/sirichandana1206)
 <!--
 **sirichandana1206/sirichandana1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
